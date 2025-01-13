@@ -1,4 +1,4 @@
-public class product {
+public class product{
 
     public static void main(String[] args) {
         System.out.println("ID:241-45234");
