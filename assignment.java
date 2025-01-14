@@ -21,6 +21,10 @@ public class assignment {
         System.out.println(price);
         System.out.println(Description);
         System.out.println(category);
+
+        //print using printf function
+
+        System.out.printf("interger ID = %d ",ID);
         
     }
 }
